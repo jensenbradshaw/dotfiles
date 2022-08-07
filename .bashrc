@@ -116,4 +116,4 @@ if ! shopt -oq posix; then
   fi
 fi
 
-date +"%a %e, %H:%M" | cowsay
+date +"%a %e, %H:%M" | cowsay -f stegosaurus
